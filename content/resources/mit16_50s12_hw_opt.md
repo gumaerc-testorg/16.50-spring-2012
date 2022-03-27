@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 88bc7c0d-5439-928c-8dbf-91ef03b66406
 resourcetype: Document
 title: Optional heat transfer homework
 uid: 7b6e79df-c944-a97a-3d19-827b8f13e061

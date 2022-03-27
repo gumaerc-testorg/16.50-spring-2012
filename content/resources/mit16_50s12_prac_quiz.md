@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 28a78564-bf04-51cc-7c16-f74eb7a30461
 resourcetype: Document
 title: Practice Mid-term Quiz
 uid: 0ca87455-1551-1c1e-ec7e-19c3d971ceb4

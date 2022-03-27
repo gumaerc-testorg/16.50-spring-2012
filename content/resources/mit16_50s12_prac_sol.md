@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 28a78564-bf04-51cc-7c16-f74eb7a30461
 resourcetype: Document
 title: Practice Mid-term Solution
 uid: 0bfe3535-a850-3d7c-bf38-4b314cba7db1

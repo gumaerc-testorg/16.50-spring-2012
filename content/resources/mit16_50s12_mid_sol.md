@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 28a78564-bf04-51cc-7c16-f74eb7a30461
 resourcetype: Document
 title: 2011 Mid-term Solution
 uid: e20c9bd7-2ae7-f54b-ffec-26d5cf09e119
