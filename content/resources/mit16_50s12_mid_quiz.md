@@ -5,6 +5,7 @@ file: /courses/16-50-introduction-to-propulsion-systems-spring-2012/05b9ef72957d
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 2011 Mid-term Quiz
 uid: 05b9ef72-957d-47f6-ab40-31cb2233fb56
 ---
 This resource contains information regarding 2011 mid-term quiz.
-

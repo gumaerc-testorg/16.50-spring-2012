@@ -5,6 +5,7 @@ file: /courses/16-50-introduction-to-propulsion-systems-spring-2012/3be8827e475b
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 2011 Final Solution
 uid: 3be8827e-475b-21cd-d6b9-a31e1f017ec1
 ---
 This resource contains information regarding 2011 final solution.
-

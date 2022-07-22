@@ -5,6 +5,7 @@ file: /courses/16-50-introduction-to-propulsion-systems-spring-2012/0ca874551551
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Practice Mid-term Quiz
 uid: 0ca87455-1551-1c1e-ec7e-19c3d971ceb4
 ---
 This resource contains information regarding practice mid-term quiz.
-
