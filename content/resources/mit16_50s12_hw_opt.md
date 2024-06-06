@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding optional heat transfer homework.
 file: /courses/16-50-introduction-to-propulsion-systems-spring-2012/7b6e79dfc944a97a3d19827b8f13e061_MIT16_50S12_hw_opt.pdf
+file_size: 213879
 file_type: application/pdf
 learning_resource_types:
 - Assignments
