@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding practice mid-term solution.
-file: /ol-ocw-studio-app/courses/16-50-introduction-to-propulsion-systems-spring-2012/0bfe3535a8503d7cbf384b314cba7db1_MIT16_50S12_prac_sol.pdf
+file: /courses/16-50-introduction-to-propulsion-systems-spring-2012/0bfe3535a8503d7cbf384b314cba7db1_MIT16_50S12_prac_sol.pdf
 file_size: 91307
 file_type: application/pdf
 learning_resource_types:
